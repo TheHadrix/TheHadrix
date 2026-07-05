@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="63" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pillow" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="beautifulsoup4" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="distro" />
+          <option value="google" />
+          <option value="google-auth" />
+          <option value="google-genai" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="jiter" />
+          <option value="jsonpatch" />
+          <option value="jsonpointer" />
+          <option value="langchain-core" />
+          <option value="langchain-openai" />
+          <option value="langsmith" />
+          <option value="openai" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="PyYAML" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="rsa" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="tenacity" />
+          <option value="tiktoken" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="websockets" />
+          <option value="zstandard" />
+          <option value="Django" />
+          <option value="djangorestframework" />
+          <option value="django-cors-headers" />
+          <option value="djangorestframework-simplejwt" />
+          <option value="drf-yasg" />
+          <option value="python-decouple" />
+          <option value="python-telegram-bot" />
+          <option value="rubpy" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="attrs" />
+          <option value="colorama" />
+          <option value="filetype" />
+          <option value="frozenlist" />
+          <option value="langchain-nvidia-ai-endpoints" />
+          <option value="multidict" />
+          <option value="propcache" />
+          <option value="uuid_utils" />
+          <option value="xxhash" />
+          <option value="yarl" />
+          <option value="mistralai" />
+          <option value="uvloop" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
