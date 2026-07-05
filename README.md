@@ -44,8 +44,6 @@
 
 ![TheHadrix's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=TheHadrix&cc=151515&tc=ffffff&ic=00D4FF&bc=151515)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHadrix&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheHadrix&theme=dark&hide_border=true)
 
 </div>
