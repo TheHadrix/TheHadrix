@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheHadrix/TheHadrix/main/output/profile.jpg" width="100%" style="border-radius: 10px; border: 4px solid #00D4FF;" alt="TheHadrix Banner"/>
+  <img src="https://raw.githubusercontent.com/TheHadrix/TheHadrix/master/output/profile.jpg" width="100%" style="border-radius: 10px; border: 4px solid #00D4FF;" alt="TheHadrix Banner"/>
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Hadi+Hosseini!;AI+%26+Backend+Developer;Building+Intelligent+Systems+%26+Scalable+APIs" alt="Typing SVG" />
   </h1>
@@ -68,7 +68,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake eating my contributions](https://raw.githubusercontent.com/TheHadrix/TheHadrix/main/output/github-contribution-grid-snake.gif)
+![Snake eating my contributions](https://raw.githubusercontent.com/TheHadrix/TheHadrix/master/output/github-contribution-grid-snake.gif)
 
 ---
 
