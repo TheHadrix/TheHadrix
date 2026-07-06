@@ -54,7 +54,29 @@
 
 <div align="center">
 
-<!-- Auto-updated daily by update_pinned.py -->
+<a href="https://github.com/TheHadrix/TheHadrix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=TheHadrix&theme=dark&hide_border=true&border_color=00D4FF" alt="TheHadrix"/>
+</a>
+
+<a href="https://github.com/TheHadrix/Heart-failure-prediction-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=Heart-failure-prediction-ML&theme=dark&hide_border=true&border_color=00D4FF" alt="Heart-failure-prediction-ML"/>
+</a>
+
+<a href="https://github.com/TheHadrix/Codex-made-Shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=Codex-made-Shop&theme=dark&hide_border=true&border_color=00D4FF" alt="Codex-made-Shop"/>
+</a>
+
+<a href="https://github.com/TheHadrix/runflare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=runflare&theme=dark&hide_border=true&border_color=00D4FF" alt="runflare"/>
+</a>
+
+<a href="https://github.com/TheHadrix/AndrewNgMachineLearningPersionSubtilte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=AndrewNgMachineLearningPersionSubtilte&theme=dark&hide_border=true&border_color=00D4FF" alt="AndrewNgMachineLearningPersionSubtilte"/>
+</a>
+
+<a href="https://github.com/TheHadrix/translator_web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=translator_web&theme=dark&hide_border=true&border_color=00D4FF" alt="translator_web"/>
+</a>
 
 </div>
 
