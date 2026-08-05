@@ -62,8 +62,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=Heart-failure-prediction-ML&theme=dark&hide_border=true&border_color=00D4FF" alt="Heart-failure-prediction-ML"/>
 </a>
 
-<a href="https://github.com/TheHadrix/Codex-made-Shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=Codex-made-Shop&theme=dark&hide_border=true&border_color=00D4FF" alt="Codex-made-Shop"/>
+<a href="https://github.com/TheHadrix/NovaStar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=NovaStar&theme=dark&hide_border=true&border_color=00D4FF" alt="NovaStar"/>
 </a>
 
 <a href="https://github.com/TheHadrix/runflare">
