@@ -54,6 +54,10 @@
 
 <div align="center">
 
+<a href="https://github.com/TheHadrix/Zirnevisa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=Zirnevisa&theme=dark&hide_border=true&border_color=00D4FF" alt="Zirnevisa"/>
+</a>
+
 <a href="https://github.com/TheHadrix/TheHadrix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=TheHadrix&theme=dark&hide_border=true&border_color=00D4FF" alt="TheHadrix"/>
 </a>
@@ -72,10 +76,6 @@
 
 <a href="https://github.com/TheHadrix/AndrewNgMachineLearningPersionSubtilte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=AndrewNgMachineLearningPersionSubtilte&theme=dark&hide_border=true&border_color=00D4FF" alt="AndrewNgMachineLearningPersionSubtilte"/>
-</a>
-
-<a href="https://github.com/TheHadrix/translator_web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=translator_web&theme=dark&hide_border=true&border_color=00D4FF" alt="translator_web"/>
 </a>
 
 </div>
