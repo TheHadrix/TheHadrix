@@ -70,12 +70,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=NovaStar&theme=dark&hide_border=true&border_color=00D4FF" alt="NovaStar"/>
 </a>
 
-<a href="https://github.com/TheHadrix/runflare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=runflare&theme=dark&hide_border=true&border_color=00D4FF" alt="runflare"/>
-</a>
-
 <a href="https://github.com/TheHadrix/AndrewNgMachineLearningPersionSubtilte">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=AndrewNgMachineLearningPersionSubtilte&theme=dark&hide_border=true&border_color=00D4FF" alt="AndrewNgMachineLearningPersionSubtilte"/>
+</a>
+
+<a href="https://github.com/TheHadrix/reader_admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHadrix&repo=reader_admin&theme=dark&hide_border=true&border_color=00D4FF" alt="reader_admin"/>
 </a>
 
 </div>
